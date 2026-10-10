@@ -1,7 +1,7 @@
-## Привіт![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Мене звати Віктор Сич
+### Привіт![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Мене звати Віктор Сич
 
 
-#   🚀 Зараз я працюю над [Проєкт "Моя пасіка"](http://pasikaua.com)
+##   Зараз я працюю над [Проєкт "Моя пасіка"](http://pasikaua.com)
 ###  🖥️ Перегляньте моє портфоліо на [Моє портфоліо](http://svmatem.blogspot.com/)
 ### ✉️ Ви можете зв’язатися зі мною за адресою [vikps72@gmail.com](mailto:vikps72@gmail.com)
 
@@ -17,19 +17,17 @@
 
 # План навчання професії "Веб розробник"
 
-# Етап 1. Основи програмування (1-2 місяці)
-## Python
+## Етап 1. Основи програмування (1-2 місяці)
+### Python
 ### Вивчити:
 змінні та типи даних, оператори, умови if/else, цикли for, while, функції, списки, словники, множини, кортежі, роботу з файлами, обробку помилок (try/except), модулі та пакети, 
 ### Практика
 ### Написати:
 калькулятор, конвертер валют, гру "Вгадай число", менеджер списку справ (ToDo), парсер текстового файлу
 ### Ресурси
-Python Crash Course
-Automate the Boring Stuff with Python
-Документація Python
+Python Crash Course, Automate the Boring Stuff with Python, Документація Python
 
-# Етап 2. Алгоритми та структури даних (1 місяць)
+## Етап 2. Алгоритми та структури даних (1 місяць)
 ### Вивчіть:
 масиви (списки), стек, черга, словники (HashMap), множини, сортування, пошук, рекурсія, складність алгоритмів (Big O)
 ### Практика
@@ -38,7 +36,7 @@ LeetCode, CodeWars, HackerRank
 ### Мета:
 100-150 задач початкового рівня.
 
-# Етап 3. Git та GitHub (2-3 тижні)
+## Етап 3. Git та GitHub (2-3 тижні)
 ### Вивчіть:
 Shell, git init, git add, git commit, git status, git push, git pull,git clone, git branch, git checkout, git merge
 ### Навчіться:
@@ -49,44 +47,35 @@ Shell, git init, git add, git commit, git status, git push, git pull,git clone, 
 ToDo програму
 алгоритмічні задачі
 
-# Етап 4. Основи веброзробки (1-2 місяці)
+## Етап 4. Основи веброзробки (1-2 місяці)
 ### HTML
 ### Вивчіть:
 теги, форми, таблиці, семантичну верстку
 ### CSS
 Вивчіть:
 селектори, Flexbox, Grid, адаптивність, JavaScript (базово)
-
 ### Вивчіть:
 змінні, функції, DOM, події, fetch API
-
 ## Практика
 ### Створіть:
 Лендінг, Портфоліо, Сайт-візитку
 # Етап 5. Бази даних (3-4 тижні)
 ## SQL
-
 ### Вивчіть:
 SQL, SELECT, INSERT, UPDATE, DELETE, JOIN, GROUP BY, ORDER BY, PostgreSQL
-
 ### Навчіться:
-
 створювати таблиці, зв'язки між таблицями, індекси, резервне копіювання
 ### Практика
-
 ### Створіть БД для:
-
 магазину, бібліотеки, системи замовлень
 
-# Етап 6. Django (2-3 місяці)
-
+## Етап 6. Django (2-3 місяці)
 ## Вивчіть:
-
 Основи, встановлення Django, проєкт та додатки,URL, Views, Templates, База даних, Models, ORM, Migrations,
 Розширені теми, Authentication, Authorization, Forms, CBV, Middleware, Signals, Django Admin, API, Django REST Framework,
 JWT, CRUD API
 
-# Етап 7. Реальні проєкти (2 місяці)
+## Етап 7. Реальні проєкти (2 місяці)
 ## Проєкт №1
 ToDo App
 ### Функції:
@@ -94,40 +83,9 @@ ToDo App
 ## Проєкт №2
 
 ### Інтернет-магазин
-
 ### Функції:
 каталог товарів, кошик, замовлення, профіль користувача
-
 ## Проєкт №3
-
 # Блог
-
 Функції:
-
 статті, коментарі, пошук, категорії
-
-# Етап 8. Деплой та DevOps (1 місяць)
-
-### Вивчіть:
-
-Linux, SSH, Docker, Nginx, Gunicorn
-
-Розгорніть проєкт на:
-Render
-Railway
-VPS
-# Етап 9. Додаткові технології
-
-# Після Django:
-
-Frontend, JavaScript поглиблено, TypeScript, React, Backend, FastAPI, Celery, Redis, RabbitMQ, Хмари, AWS, Azure, Docker Compose
-
-
-
-
-
-Щ
-
-
-
-
