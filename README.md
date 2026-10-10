@@ -16,10 +16,4 @@
 <p align="left"> <a href="https://www.youtube.com/@https://www.youtube.com/@%D0%92%D1%96%D0%BA%D1%82%D0%BE%D1%80%D0%A1%D0%B8%D1%87-%D1%804%D0%BF" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a> <a href="https://www.facebook.com/sic.viktor.376798/?locale=uk_UA" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
 ### Підтримай мене
 
-<ul style="list-style-type: none; margin: 0;">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/1"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/1"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
-</ul>
